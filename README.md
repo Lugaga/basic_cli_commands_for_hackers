@@ -1,4 +1,4 @@
-"# basic_cli_commands_for_hackers" 
+# basic_cli_commands_for_hackers
 
 The shell/console/terminal is nothing more than a program which accepts your commands and executes those commands.
 Also known as a command line interpreter.
